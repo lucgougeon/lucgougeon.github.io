@@ -1,4 +1,6 @@
-# lucgougeon.github.io
+### Please look at the following website
 
-This is where I will host my website
+# Silicon Island Kyushu
+
+[https://siliconislandkyushu.wordpress.com/](https://siliconislandkyushu.wordpress.com/)
 
